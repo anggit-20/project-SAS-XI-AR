@@ -16,14 +16,14 @@ let daftarSiswaRPL1 = [
 ]
 
 let daftarSiswaRPL2 = [
-    "237662_Ade Ikhsan",
-    "237664_Agonia Senja",
-    "237665_Ahmad Zaenal", 
-    "237666_Amelda Ayu",
-    "237667_Amelia Asyanova",
-    "237668_Andika Satria",
-    "237669_Anin Dyta ",
-    "237670_Aulia Diarnala"
+    "Ade Ikhsan",
+    "Agonia Senja",
+    "Ahmad Zaenal", 
+    "Amelda Ayu",
+    "Amelia Asyanova",
+    "Andika Satria",
+    "Anin Dyta ",
+    "Aulia Diarnala"
 ]
 
 const pilihanAbsen = [
